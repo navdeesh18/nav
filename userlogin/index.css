@@ -1,0 +1,47 @@
+@media screen and (max-width:500px) {
+body{
+  font-size: 100%;
+}
+#vann{
+  background-color: blue;
+  border:0.2em solid #dddfe2;
+  margin: 10% auto;
+  width:20%;
+  padding-left: 1.5%;
+  padding-bottom: 1.5%;
+  font-family:helvetica, arial, sans-serif;
+}
+._6{
+  font-family:arial;
+       font-weight:solid;
+}
+h1{
+  font-size: 1.5em;
+    font-family:arial;
+}
+#form input{
+  background-color: ;
+  border:0.2em solid #dddfe2;
+  position: relative;
+  width: 80%;
+  padding: 2%;
+  margin: 1%;
+  font-family:arial;
+       font-weight:solid;
+}
+#input{
+  background-color: ;
+  border:0.2em solid #dddfe2;
+  position: relative;
+  width: 80%;
+  padding: 2%;
+  margin: 1%;
+  font-family:arial;
+       font-weight:solid;
+}
+{
+  text-decoration: none;
+}
+
+
+}
